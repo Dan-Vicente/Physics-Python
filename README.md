@@ -14,5 +14,6 @@
 		<h2>Importância do projeto</h2>
 		<p>Este projeto é importante por demonstrar como a programação pode ser usada para simular fenômenos físicos e tornar o aprendizado de física mais interativo e visual. Além disso, a integração de diferentes áreas do conhecimento, como física e programação, pode levar a descobertas e soluções criativas em diversas áreas.</p>
 	</div>
+	<img src="particle.png">
 </body>
 </html>
